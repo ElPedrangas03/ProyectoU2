@@ -1,0 +1,18 @@
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Modelos\bin\Debug\Modelos.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Modelos\obj\Debug\Modelos.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Modelos\obj\Debug\Modelos.pdb
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Modelos\bin\Debug\Modelos.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Modelos\bin\Debug\Modelos.pdb
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Modelos\obj\Debug\Modelos.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Modelos\obj\Debug\Modelos.pdb
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Modelos\bin\Debug\Modelos.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Modelos\bin\Debug\Modelos.pdb
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Modelos\obj\Debug\Modelos.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Modelos\obj\Debug\Modelos.pdb

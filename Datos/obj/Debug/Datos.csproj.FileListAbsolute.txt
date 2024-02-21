@@ -1,0 +1,205 @@
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\Datos.dll.config
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\Datos.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\Datos.pdb
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\Google.Protobuf.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\Modelos.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\MySql.Data.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Buffers.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Memory.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\ZstdSharp.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\Modelos.pdb
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\Google.Protobuf.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\MySql.Data.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Buffers.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Memory.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\obj\Debug\Datos.dll
+C:\Users\Diego Jesus\Desktop\TallerBD\ProyectoU5\Datos\obj\Debug\Datos.pdb
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\Datos.dll.config
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\Datos.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\Datos.pdb
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\Google.Protobuf.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\Modelos.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\MySql.Data.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Buffers.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Memory.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\ZstdSharp.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\Modelos.pdb
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\Google.Protobuf.pdb
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\Google.Protobuf.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\MySql.Data.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Buffers.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Memory.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\obj\Debug\Datos.dll
+C:\Users\migue\OneDrive\Documents\6to\BD\ProyectoU5\Datos\obj\Debug\Datos.pdb
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\Datos.dll.config
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\Datos.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\Datos.pdb
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\Google.Protobuf.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\Modelos.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\MySql.Data.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Buffers.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Memory.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\ZstdSharp.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\Modelos.pdb
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\Google.Protobuf.pdb
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\Google.Protobuf.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\MySql.Data.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Buffers.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Memory.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\obj\Debug\Datos.dll
+C:\Users\tonia\OneDrive\Escritorio\German\ProyectoU5\Datos\obj\Debug\Datos.pdb
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\Datos.dll.config
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\Datos.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\Datos.pdb
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\Google.Protobuf.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\Modelos.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\MySql.Data.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Buffers.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Memory.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\ZstdSharp.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\Modelos.pdb
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\Google.Protobuf.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\MySql.Data.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Buffers.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Memory.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\obj\Debug\Datos.dll
+C:\Users\Liz\Downloads\Yajala\ProyectoU5\Datos\obj\Debug\Datos.pdb
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\Datos.dll.config
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\Datos.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\Datos.pdb
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\Google.Protobuf.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\Modelos.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\MySql.Data.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Buffers.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Memory.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\ZstdSharp.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\Modelos.pdb
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\Google.Protobuf.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\MySql.Data.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Buffers.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Memory.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\obj\Debug\Datos.dll
+C:\Users\Liz\Downloads\Yajala2.0\Yajala2\ProyectoU5\Datos\obj\Debug\Datos.pdb
